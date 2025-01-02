@@ -1,0 +1,632 @@
+[
+    {
+        "label": "Retrieval-augmented generation (RAG)",
+        "ring": 0,
+        "quadrant": 2,
+        "moved": 1
+    },
+    {
+        "label": "Automatically generate Backstage entity descriptors",
+        "ring": 1,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "Combining traditional NLP with LLMs",
+        "ring": 1,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "Continuous compliance",
+        "ring": 1,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "Edge functions",
+        "ring": 1,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "Security champions",
+        "ring": 1,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "Text to SQL",
+        "ring": 1,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "Tracking health over debt",
+        "ring": 1,
+        "quadrant": 2,
+        "moved": 0
+    },
+    {
+        "label": "AI team assistants",
+        "ring": 2,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "Graph analysis for LLM-backed chats",
+        "ring": 2,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "LLM-backed ChatOps",
+        "ring": 2,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "LLM-powered autonomous agents",
+        "ring": 2,
+        "quadrant": 2,
+        "moved": 0
+    },
+    {
+        "label": "Using GenAI to understand legacy codebases",
+        "ring": 2,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "VISS",
+        "ring": 2,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "Broad integration tests",
+        "ring": 3,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "Overenthusiastic LLM use",
+        "ring": 3,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "Rush to fine-tune LLMs",
+        "ring": 3,
+        "quadrant": 2,
+        "moved": 2
+    },
+    {
+        "label": "Web components for SSR web apps",
+        "ring": 3,
+        "quadrant": 2,
+        "moved": 0
+    },
+    {
+        "label": "CloudEvents",
+        "ring": 0,
+        "quadrant": 1,
+        "moved": 1
+    },
+    {
+        "label": "Arm in the cloud",
+        "ring": 1,
+        "quadrant": 1,
+        "moved": 0
+    },
+    {
+        "label": "Azure Container Apps",
+        "ring": 1,
+        "quadrant": 1,
+        "moved": 1
+    },
+    {
+        "label": "Azure OpenAI Service",
+        "ring": 1,
+        "quadrant": 1,
+        "moved": 1
+    },
+    {
+        "label": "DataHub",
+        "ring": 1,
+        "quadrant": 1,
+        "moved": 0
+    },
+    {
+        "label": "Infrastructure orchestration platforms",
+        "ring": 1,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "Pulumi",
+        "ring": 1,
+        "quadrant": 1,
+        "moved": 0
+    },
+    {
+        "label": "Rancher Desktop",
+        "ring": 1,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "Weights & Biases",
+        "ring": 1,
+        "quadrant": 1,
+        "moved": 0
+    },
+    {
+        "label": "Bun",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 0
+    },
+    {
+        "label": "Chronosphere",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "DataOS",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "Dify",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "Elasticsearch Relevance Engine",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "FOCUS",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "Gemini Nano",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "HyperDX",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "IcePanel",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "Langfuse",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "Qdrant",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "RISC-V for embedded",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "Tigerbeetle",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "WebTransport",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "Zarf",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "ZITADEL",
+        "ring": 2,
+        "quadrant": 1,
+        "moved": 2
+    },
+    {
+        "label": "Conan",
+        "ring": 0,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Kaniko",
+        "ring": 0,
+        "quadrant": 3,
+        "moved": 1
+    },
+    {
+        "label": "Karpenter",
+        "ring": 0,
+        "quadrant": 3,
+        "moved": 1
+    },
+    {
+        "label": "42Crunch API Conformance Scan",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "actions-runner-controller",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 1
+    },
+    {
+        "label": "Android Emulator Container",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "AWS CUDOS",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "aws-nuke",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Bruno",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Develocity",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "GitHub Copilot",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 0
+    },
+    {
+        "label": "Gradio",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 1
+    },
+    {
+        "label": "Gradle Version Catalog",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Maestro",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 1
+    },
+    {
+        "label": "Microsoft SBOM tool",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Open Policy Agent (OPA)",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 0
+    },
+    {
+        "label": "Philips's self-hosted GitHub runner",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 1
+    },
+    {
+        "label": "Pop",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Renovate",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Terrascan",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Velero",
+        "ring": 1,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "aider",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Akvorado",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Baichuan 2",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Cargo Lambda",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Codium AI",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Continue",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Fern Docs",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Granted",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "LinearB",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "LLaVA",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Marimo",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Mixtral",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "NeMo Guardrails",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Ollama",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "OpenTofu",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "QAnything",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "System Initiative",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Tetragon",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Winglang",
+        "ring": 2,
+        "quadrant": 3,
+        "moved": 2
+    },
+    {
+        "label": "Astro",
+        "ring": 1,
+        "quadrant": 0,
+        "moved": 1
+    },
+    {
+        "label": "DataComPy",
+        "ring": 1,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Pinia",
+        "ring": 1,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Ray",
+        "ring": 1,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Android Adaptability",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Concrete ML",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Crabviz",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Crux",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Databricks Asset Bundles",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Electric",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "LiteLLM",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "LLaMA-Factory",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "MLX",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Mojo",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Otter",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Pkl",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Rust for UI",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "vLLM",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Voyager",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "WGPU",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 2
+    },
+    {
+        "label": "Zig",
+        "ring": 2,
+        "quadrant": 0,
+        "moved": 0
+    },
+    {
+        "label": "LangChain",
+        "ring": 3,
+        "quadrant": 0,
+        "moved": -1
+    }
+]

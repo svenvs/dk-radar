@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en" class="h-full bg-gray-100">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="/styles.css" rel="stylesheet">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://zalando.github.io/tech-radar/release/radar-0.10.js"></script>
+    <title>DK tech radar</title>
+</head>
+  <body class="h-full">
+    <div class="min-h-full">
+      <div class="bg-gray-800 pb-32">
+  <nav class="bg-gray-800">
+    <div class="mx-auto sm:px-6 lg:px-8">
+      <div class="border-b border-gray-700">
+        <div class="flex h-16 items-center justify-between px-4 sm:px-0">
+          <div class="flex items-center">
+            <div class="shrink-0 py-2">
+              <svg width="286" height="64" viewBox="0 0 286 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path
+                  fill-rule="evenodd"
+                  clip-rule="evenodd"
+                  d="M33.2874 0.91935C33.1259 0.316664 32.5055 -0.0367181 31.9055 0.121865C31.3042 0.280809 30.9417 0.896263 31.1037
+                    1.50031L41.8868 41.7094L1.72203 30.907C1.13775 30.7499 0.519251 31.0817 0.352014 31.6739C0.18342 32.271 0.545721 32.8735
+                    1.13399 33.0315L41.875 43.9893L30.7906 62.2066C30.4657 62.7403 30.6399 63.4334 31.1743 63.7539C31.7069 64.0735 32.4005
+                    63.9051 32.7241 63.3732L44.3465 44.2708L63.1072 33.3964C63.638 33.089 63.8208 32.41 63.4991 31.8808C63.181 31.3583
+                    62.4991 31.194 61.9751 31.4978L44.2442 41.7751L33.2874 0.91935Z"
+                  fill="#6100FF"/>
+                <path
+                  d="M49.7324 54.142H13.8201C11.5325 54.142 9.68359 52.2968 9.68359 50.0138V14.1428C9.68359 11.8598 11.5325 10.0146 13.8201
+                    10.0146H49.7324C52.0201 10.0146 53.869 11.8598 53.869 14.1428V49.9825C53.869 52.2655 52.0201 54.142 49.7324 54.142Z"
+                  fill="#FF5E5E"/>
+                <path
+                  fill-rule="evenodd"
+                  clip-rule="evenodd"
+                  d="M35.3435 1.39224C33.4884 -0.464079 30.4803 -0.464079 28.6246 1.39224L1.39155 28.6388C-0.463849 30.4953 -0.463849
+                    33.5049 1.39155 35.361L28.6246 62.6079C30.4803 64.464 33.4884 64.464 35.3435 62.6079L62.577 35.361C64.4322 33.5049
+                    64.4322 30.4953 62.577 28.6388L35.3435 1.39224ZM21.4949 21.6586L61.6589 32.4827C61.567 32.9508 61.3399 33.3976 60.977
+                    33.7607L33.744 61.0072C33.358 61.3933 32.8766 61.626 32.3762 61.7057L21.4949 21.6586ZM2.28737 32.3527L19.2936
+                    22.2048L29.6916 60.4743L2.99129 33.7607C2.59533 33.3645 2.36067 32.8679 2.28737 32.3527ZM5.2522 27.9774L28.5179
+                    4.70029L19.1611 19.6775L5.2522 27.9774ZM60.6245 29.8869L21.9569 19.4661L32.6476 2.3532C33.049 2.46388 33.4282 2.67711
+                    33.744 2.99278L60.6245 29.8869Z"
+                  fill="#6100FF"/>
+                <path d="M24.694 53.9232H13.4755C11.3759 53.9232 9.65234 52.2034 9.65234 50.1078V37.7549" fill="#FF5E5E"/>
+                <path d="M9.65234 23.9628V13.4548C9.65234 11.5471 11.1879 10.0146 13.0994 10.0146H23.9107" fill="#FF5E5E"/>
+              </svg>
+            </div>
+            <div class="hidden md:block">
+              <div
+                class="ml-10 flex items-baseline space-x-4">
+                <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
+                <a href="#" class="rounded-md bg-gray-900 px-3 py-2 text-sm font-medium text-white" aria-current="page">Tech radar</a>
+                <a href="#" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">excel</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <header class="py-10">
+    <div class="mx-auto px-4 sm:px-6 lg:px-8">
+      <h1 class="text-3xl font-bold tracking-tight text-white">Techradar</h1>
+    </div>
+  </header>
+</div>
+      <main class="-mt-32">
+        <div class="mx-auto px-4 pb-12 sm:px-6 lg:px-8">
+          <div class="rounded-lg bg-white px-5 py-6 shadow sm:px-6">
+            
+<div class="text-center mx-auto ">
+    <svg id="radar"></svg>
+</div>
+            <!-- Your content -->
+          </div>
+        </div>
+      </main>
+    </div>
+    <script type="module" src="/bundle.js"></script>
+  </body>
+</html>
