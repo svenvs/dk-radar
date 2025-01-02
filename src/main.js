@@ -9,7 +9,7 @@ window.addEventListener('DOMContentLoaded', () => {
 document.addEventListener('alpine:init', async () => {
   console.log('alpine init executed... not sure why yet just for fun :D ')
 
-  const url = "/api/techList.json";
+  const url = "api/techList.json";
   let allEntries;
   try {
     const response = await fetch(url);
